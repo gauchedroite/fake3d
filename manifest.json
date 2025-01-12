@@ -1,0 +1,11 @@
+{
+    "name": "FAKE3D",
+    "short_name": "fake3d",
+    "icons": [
+        {
+            "src": "teller-180x180.png",
+            "sizes": "180x180"
+        }
+    ],
+    "display": "fullscreen"
+}
